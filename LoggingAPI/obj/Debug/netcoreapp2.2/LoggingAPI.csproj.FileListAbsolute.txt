@@ -1,0 +1,14 @@
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.deps.json
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.runtimeconfig.json
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.runtimeconfig.dev.json
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.dll
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.pdb
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.csprojAssemblyReference.cache
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.csproj.CoreCompileInputs.cache
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.RazorAssemblyInfo.cache
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.RazorAssemblyInfo.cs
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.AssemblyInfoInputs.cache
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.AssemblyInfo.cs
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.dll
+C:\Users\excl2\source\repos\LoggingAPI\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.pdb
